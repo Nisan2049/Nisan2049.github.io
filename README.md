@@ -2,4 +2,4 @@
 
 Click [Here!](http://nisanlamichhane.com.np)
 
-click [here](/index.html)
+click [here](/qbasicquestions.html)
