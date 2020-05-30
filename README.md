@@ -1,3 +1,5 @@
 # Nisan2049.github.io
 
-Goto Home <a href="index.html">
+Click [Here!](http://nisanlamichhane.com.np)
+
+click [here](/index.html)
